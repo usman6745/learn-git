@@ -1,0 +1,2 @@
+adding a file after swithcing to newly created branch
+#modifying in first branch after you merge it into master
